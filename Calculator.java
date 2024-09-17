@@ -2,19 +2,19 @@ package src;
 
 public class Calculator {
 
-    public double add(double a, double b) {
-        return a + b;
+    public double add(double firstNumber, double secondNumber) {
+        return firstNumber + secondNumber;
     }
 
-    public double subtract(double a, double b) {
-        return a - b;
+    public double subtract(double firstNumber, double  secondNumber) {
+        return firstNumber - secondNumber;
     }
 
-    public double multiply(double a, double b) {
-        return a * b;
+    public double multiply(double firstNumber, double secondNumber) {
+        return firstNumber * secondNumber;
     }
 
-    public double divide(double a, double b) {
-        return a / b;
+    public double divide(double firstNumber, double secondNumber) {
+        return firstNumber / secondNumber;
     }
 }
