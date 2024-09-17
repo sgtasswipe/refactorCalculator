@@ -1,7 +1,6 @@
-package src;
+package src.calculator1refactor;
 
 import org.junit.Assert;
-import src.Calculator;
 
 public class CalculatorTest {
     Calculator calculator = new Calculator();

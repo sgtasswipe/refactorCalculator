@@ -1,6 +1,5 @@
-package src;
+package src.calculator1refactor;
 
-import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
