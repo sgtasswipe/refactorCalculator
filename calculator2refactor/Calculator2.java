@@ -65,7 +65,7 @@ public class Calculator2 {
             double userInputNumber=0;
 
             do {
-                try {
+                try {   //checks for valid input, if not valid, will catch exeption and try again untill input is valid.
                     System.out.print(promt);
                     userInputNumber = input.nextDouble();
                     validInput = true;
